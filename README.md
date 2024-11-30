@@ -1,5 +1,5 @@
 # Shape-Craft
-This Python program provides an engaging and interactive way for users to generate and visualize different geometric shapes, such as rectangles, squares, circles, and more. 
+This Python program provides an engaging and interactive way for users to generate and visualize different geometric shapes, such as rectangles, squares, circles. 
 By entering specific details such as the dimensions (e.g., width, height, or radius), coordinates (which determine the position of the shape on a 2D plane), and the color of the shape, users can create custom shapes tailored to their preferences.
 
 The program starts by prompting the user to choose the type of shape they want to generate. Then, depending on the selected shape, the user is asked to input the appropriate dimensions. 
